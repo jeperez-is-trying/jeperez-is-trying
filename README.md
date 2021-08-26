@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jeperez-is-trying
+- 👀 I’m interested in biomemetic design 
+- 🌱 I’m currently learning grasshoper, C, houdini!
